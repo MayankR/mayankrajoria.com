@@ -1,0 +1,29 @@
+@font-face {
+    font-family: myFont;
+    src: url(fonts/a.otf);
+}@font-face {
+    font-family: myName;
+    src: url(fonts/Jellygurp.otf);
+}
+body {
+    background-color: #F0F465;
+}
+p {
+    font-family: myFont;
+}
+h1 {
+    font-family: myFont;
+}
+.myname {
+	font-family: myName;
+	font-size: 450%;
+}
+.findme {
+    margin-top: 70px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+img {
+	max-width:100%;
+	max-height:100%;
+}

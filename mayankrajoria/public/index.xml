@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mayank Rajoria</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mayank Rajoria</description>
+    <generator>Hugo -- 0.154.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jul 2016 18:16:01 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hosting a website on AWS using S3 and Route 53</title>
+      <link>http://localhost:1313/posts/2016-07-28-hosting-website-on-s3/</link>
+      <pubDate>Thu, 28 Jul 2016 18:16:01 +0530</pubDate>
+      <guid>http://localhost:1313/posts/2016-07-28-hosting-website-on-s3/</guid>
+      <description>&lt;p&gt;After purchasing a domain, comes the dilema of finding a good place to host it. Same was the case with my domain &lt;a href=&#34;http://mayankrajoria.com&#34;&gt;http://mayankrajoria.com&lt;/a&gt;. Since this is my personal website, I decided it would essentially be a static one. Now for such websites, AWS S3 is pretty much the cheapest and most reliable way of hosting. The S3 service provided by Amazon gives you “buckets”, into which you can store files. We make use of the fact that these files can then be served to the internet easily. So here are the steps for getting you started with S3 hosting for your own static website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My first post on this blog!</title>
+      <link>http://localhost:1313/posts/2016-07-21-first-post/</link>
+      <pubDate>Thu, 21 Jul 2016 16:16:01 +0530</pubDate>
+      <guid>http://localhost:1313/posts/2016-07-21-first-post/</guid>
+      <description>&lt;p&gt;Hey, there!
+This is the first post on my blog. The customary ‘Hello, World!’ one. I shall hopefully post about things that interest me, on this blog.
+In the next blog post I shall probably describe the setup of my website an this blog. I am using AWS entirely for hosting. This will probably reduce costs and I will learn about new stuff too. Stay tuned for next updates.&lt;/p&gt;
+&lt;p&gt;Signing Off,
+Mayank&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

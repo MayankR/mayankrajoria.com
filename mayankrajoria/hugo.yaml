@@ -1,0 +1,18 @@
+baseURL: https://mayankrajoria.com/
+languageCode: en-us
+title: Mayank Rajoria
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: false
+
+  homeInfoParams:
+    Title: "Welcome to my blog \U0001F44B"
+    Content: I am Mayank. I'm currently an AI Researcher at Foundation AI in Cisco. I working on infrastructure for LLM inference and training.
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mayank-rajoria/"
+    - name: github
+      url: "https://github.com/MayankR"

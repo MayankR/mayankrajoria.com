@@ -4,6 +4,9 @@ title: Mayank Rajoria
 theme: ["PaperMod"]
 publishDir: public/blog
 
+permalinks:
+  posts: "/:year/:month/:slug/"
+
 params:
   profileMode:
     enabled: false

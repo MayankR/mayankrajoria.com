@@ -1,6 +1,7 @@
 ---
 date: '2016-07-21T16:16:01+05:30'
 title: 'My first post on this blog!'
+slug: first-post
 ---
 
 Hey, there!

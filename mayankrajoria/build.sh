@@ -62,6 +62,22 @@ main() {
   # Build the site
   echo "Building the site..."
   hugo --gc --minify
+  echo "Writing root redirect page..."
+  cat > public/index.html <<'EOF'
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url=/blog/">
+    <link rel="canonical" href="/blog/">
+    <title>Redirecting...</title>
+    <script>location.replace("/blog/");</script>
+  </head>
+  <body>
+    <p>Redirecting to <a href="/blog/">/blog/</a>...</p>
+  </body>
+</html>
+EOF
 
 }
 

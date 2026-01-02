@@ -1,7 +1,8 @@
-baseURL: https://mayankrajoria.com/
+baseURL: https://mayankrajoria.com/blog/
 languageCode: en-us
 title: Mayank Rajoria
 theme: ["PaperMod"]
+publishDir: public/blog
 
 params:
   profileMode:

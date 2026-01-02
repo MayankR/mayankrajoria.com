@@ -1,6 +1,5 @@
 ---
 date: '2016-07-21T16:16:01+05:30'
-draft: true
 title: 'My first post on this blog!'
 ---
 
